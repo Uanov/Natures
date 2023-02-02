@@ -1,0 +1,22 @@
+{
+  "name": "natures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uanov/Natures.git"
+  },
+  "author": "a.maksymikhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uanov/Natures/issues"
+  },
+  "homepage": "https://github.com/Uanov/Natures#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
